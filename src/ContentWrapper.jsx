@@ -1,10 +1,11 @@
 import React from "react"
 import { Outlet } from "react-router-dom"
+import Header from "./Components/Header"
 
 const ContentWrapper = () => {
   return (
     <>
-      <h1>Header</h1>
+      <Header />
       <Outlet />
     </>
   )

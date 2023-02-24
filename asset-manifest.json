@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/preatoni-giardini/static/css/main.6e677660.css",
+    "main.js": "/preatoni-giardini/static/js/main.f55b65a8.js",
+    "index.html": "/preatoni-giardini/index.html",
+    "main.6e677660.css.map": "/preatoni-giardini/static/css/main.6e677660.css.map",
+    "main.f55b65a8.js.map": "/preatoni-giardini/static/js/main.f55b65a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e677660.css",
+    "static/js/main.f55b65a8.js"
+  ]
+}

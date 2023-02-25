@@ -1,12 +1,12 @@
 import React from "react"
-import { createBrowserRouter, RouterProvider } from "react-router-dom"
+import { createHashRouter, RouterProvider } from "react-router-dom"
 import ContentWrapper from "./ContentWrapper"
 import NotFound from "./Pages/NotFound"
 import Home from "./Pages/Home"
 import Servizi from "./Pages/Servizi"
 import Contatti from "./Pages/Contatti"
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <ContentWrapper />,

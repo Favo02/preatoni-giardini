@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/preatoni-giardini/static/css/main.6e677660.css",
-    "main.js": "/preatoni-giardini/static/js/main.f55b65a8.js",
+    "main.js": "/preatoni-giardini/static/js/main.bb092d64.js",
     "index.html": "/preatoni-giardini/index.html",
     "main.6e677660.css.map": "/preatoni-giardini/static/css/main.6e677660.css.map",
-    "main.f55b65a8.js.map": "/preatoni-giardini/static/js/main.f55b65a8.js.map"
+    "main.bb092d64.js.map": "/preatoni-giardini/static/js/main.bb092d64.js.map"
   },
   "entrypoints": [
     "static/css/main.6e677660.css",
-    "static/js/main.f55b65a8.js"
+    "static/js/main.bb092d64.js"
   ]
 }

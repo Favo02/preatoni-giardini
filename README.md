@@ -1,4 +1,4 @@
-Incomplete and abandoned, now using [preatoni-giardini-v2](https://github.com/preatoni-giardini-v2).
+Incomplete and abandoned, now using [preatoni-giardini-v2](https://github.com/Favo02/preatoni-giardini-v2).
 _Static website, waste of time building it without a website builder._
 
 # Preatoni Giardini website
